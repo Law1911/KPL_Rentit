@@ -70,6 +70,12 @@
     <Compile Include="CariGedungController\Olahraga.Designer.cs">
       <DependentUpon>Olahraga.cs</DependentUpon>
     </Compile>
+    <Compile Include="View\Facility Page\FacilityPageView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Facility Page\FacilityPageView.Designer.cs">
+      <DependentUpon>FacilityPageView.cs</DependentUpon>
+    </Compile>
     <Compile Include="View\MainPage\MainPageView.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -102,6 +108,12 @@
     <Compile Include="View\Menu\MenuView.Designer.cs">
       <DependentUpon>MenuView.cs</DependentUpon>
     </Compile>
+    <Compile Include="View\Pembayaran 1\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Pembayaran 1\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
     <Compile Include="View\Pembayaran 2\pembayaran2View.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -116,6 +128,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="CariGedungController\Olahraga.resx">
       <DependentUpon>Olahraga.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Facility Page\FacilityPageView.resx">
+      <DependentUpon>FacilityPageView.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="View\Login\LoginView.resx">
       <DependentUpon>LoginView.cs</DependentUpon>
@@ -135,6 +150,9 @@
     </Compile>
     <EmbeddedResource Include="View\Menu\MenuView.resx">
       <DependentUpon>MenuView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Pembayaran 1\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="View\Pembayaran 2\pembayaran2View.resx">
       <DependentUpon>pembayaran2View.cs</DependentUpon>
