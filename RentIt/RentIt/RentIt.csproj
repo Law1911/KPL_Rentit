@@ -108,6 +108,12 @@
     <Compile Include="View\Menu\MenuView.Designer.cs">
       <DependentUpon>MenuView.cs</DependentUpon>
     </Compile>
+    <Compile Include="View\Pembatalan 1\Pembatalan1View.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Pembatalan 1\Pembatalan1View.Designer.cs">
+      <DependentUpon>Pembatalan1View.cs</DependentUpon>
+    </Compile>
     <Compile Include="View\Pembayaran 1\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -150,6 +156,9 @@
     </Compile>
     <EmbeddedResource Include="View\Menu\MenuView.resx">
       <DependentUpon>MenuView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Pembatalan 1\Pembatalan1View.resx">
+      <DependentUpon>Pembatalan1View.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="View\Pembayaran 1\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -267,6 +276,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\GEDUNG KULIAH UMUM.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dunlut.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dunlut1.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

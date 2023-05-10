@@ -65,3 +65,4 @@ C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\KPL\TugasBesar\Newe
 C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\KPL\TugasBesar\Newest\KPL_Rentit\RentIt\RentIt\obj\Debug\RentIt.csproj.CopyComplete
 C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\KPL\TugasBesar\Newest\KPL_Rentit\RentIt\RentIt\obj\Debug\RentIt.exe
 C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\KPL\TugasBesar\Newest\KPL_Rentit\RentIt\RentIt\obj\Debug\RentIt.pdb
+C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\KPL\TugasBesar\Newest\KPL_Rentit\RentIt\RentIt\obj\Debug\RentIt.View.Pembatalan_1.Pembatalan1View.resources
