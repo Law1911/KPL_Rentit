@@ -209,5 +209,45 @@ namespace RentIt
         {
 
         }
+
+        private void logoTUTop_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void logoTop_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void logoBottom_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void kontak_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void olahraga_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void gedung_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void kelas_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

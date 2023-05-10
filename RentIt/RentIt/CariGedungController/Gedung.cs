@@ -1,4 +1,5 @@
-﻿using System;
+﻿using RentIt.View.Facility_Page;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -44,7 +45,9 @@ namespace RentIt.CariGedungController
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            this.Hide();
+            FacilityPageView facilityPageView = new FacilityPageView();
+            facilityPageView.ShowDialog();
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)

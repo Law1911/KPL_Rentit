@@ -1,4 +1,5 @@
-﻿using System;
+﻿using RentIt.View.Menu;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -19,7 +20,6 @@ namespace RentIt.View.Pembayaran_2
 
         private void home_Click(object sender, EventArgs e)
         {
-
         }
 
         private void facility_Click(object sender, EventArgs e)

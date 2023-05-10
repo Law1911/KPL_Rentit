@@ -1,4 +1,6 @@
-﻿using System;
+﻿using RentIt.View.Menu;
+using RentIt.View.Pembayaran_2;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +17,17 @@ namespace RentIt.View.Pembayaran_1
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            pembayaran2View pembayaran2View = new pembayaran2View();
+            pembayaran2View.ShowDialog(); 
+        }
+
+        private void home_Click(object sender, EventArgs e)
+        {
         }
     }
 }

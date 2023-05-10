@@ -53,5 +53,10 @@ namespace RentIt.View.Menu
             Olahraga guna = new Olahraga();
             addUserControls(guna);
         }
+
+        private void guna2Button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

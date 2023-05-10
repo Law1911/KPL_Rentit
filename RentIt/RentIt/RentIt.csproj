@@ -126,6 +126,12 @@
     <Compile Include="View\Pembayaran 2\pembayaran2View.Designer.cs">
       <DependentUpon>pembayaran2View.cs</DependentUpon>
     </Compile>
+    <Compile Include="View\RentPage\RentPageView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\RentPage\RentPageView.Designer.cs">
+      <DependentUpon>RentPageView.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="CariGedungController\Gedung.resx">
       <DependentUpon>Gedung.cs</DependentUpon>
     </EmbeddedResource>
@@ -165,6 +171,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="View\Pembayaran 2\pembayaran2View.resx">
       <DependentUpon>pembayaran2View.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\RentPage\RentPageView.resx">
+      <DependentUpon>RentPageView.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">

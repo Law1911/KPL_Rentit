@@ -1,4 +1,5 @@
-﻿using System;
+﻿using RentIt.View.Menu;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -70,6 +71,10 @@ namespace RentIt.View.Pembatalan_1
                     }
                 }
             }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
         }
     }
 }

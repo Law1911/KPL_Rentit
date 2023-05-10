@@ -160,11 +160,10 @@ namespace RentIt
             {
                 errorMsgUser.Text = ex.Message;
                 errorMsgUser.Visible = true;
-                this.Hide();
-                MenuView f2 = new MenuView();
-                f2.Show();
             }
-            
+            this.Hide();
+            MenuView mv = new MenuView();
+            mv.ShowDialog();
 
         }
 

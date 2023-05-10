@@ -66,3 +66,26 @@ C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\KPL\TugasBesar\Newe
 C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\KPL\TugasBesar\Newest\KPL_Rentit\RentIt\RentIt\obj\Debug\RentIt.exe
 C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\KPL\TugasBesar\Newest\KPL_Rentit\RentIt\RentIt\obj\Debug\RentIt.pdb
 C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\KPL\TugasBesar\Newest\KPL_Rentit\RentIt\RentIt\obj\Debug\RentIt.View.Pembatalan_1.Pembatalan1View.resources
+E:\tubesKPL\KPL_Rentit\RentIt\RentIt\bin\Debug\RentIt.exe.config
+E:\tubesKPL\KPL_Rentit\RentIt\RentIt\bin\Debug\RentIt.exe
+E:\tubesKPL\KPL_Rentit\RentIt\RentIt\bin\Debug\RentIt.pdb
+E:\tubesKPL\KPL_Rentit\RentIt\RentIt\bin\Debug\Guna.UI2.dll
+E:\tubesKPL\KPL_Rentit\RentIt\RentIt\obj\Debug\RentIt.csproj.AssemblyReference.cache
+E:\tubesKPL\KPL_Rentit\RentIt\RentIt\obj\Debug\RentIt.csproj.SuggestedBindingRedirects.cache
+E:\tubesKPL\KPL_Rentit\RentIt\RentIt\obj\Debug\RentIt.CariGedungController.Gedung.resources
+E:\tubesKPL\KPL_Rentit\RentIt\RentIt\obj\Debug\RentIt.CariGedungController.Kelas.resources
+E:\tubesKPL\KPL_Rentit\RentIt\RentIt\obj\Debug\RentIt.CariGedungController.Olahraga.resources
+E:\tubesKPL\KPL_Rentit\RentIt\RentIt\obj\Debug\RentIt.View.Facility_Page.FacilityPageView.resources
+E:\tubesKPL\KPL_Rentit\RentIt\RentIt\obj\Debug\RentIt.LoginView.resources
+E:\tubesKPL\KPL_Rentit\RentIt\RentIt\obj\Debug\RentIt.MainPageView.resources
+E:\tubesKPL\KPL_Rentit\RentIt\RentIt\obj\Debug\RentIt.Properties.Resources.resources
+E:\tubesKPL\KPL_Rentit\RentIt\RentIt\obj\Debug\RentIt.View.Menu.MenuView.resources
+E:\tubesKPL\KPL_Rentit\RentIt\RentIt\obj\Debug\RentIt.View.Pembatalan_1.Pembatalan1View.resources
+E:\tubesKPL\KPL_Rentit\RentIt\RentIt\obj\Debug\RentIt.View.Pembayaran_1.Form1.resources
+E:\tubesKPL\KPL_Rentit\RentIt\RentIt\obj\Debug\RentIt.View.Pembayaran_2.pembayaran2View.resources
+E:\tubesKPL\KPL_Rentit\RentIt\RentIt\obj\Debug\RentIt.csproj.GenerateResource.cache
+E:\tubesKPL\KPL_Rentit\RentIt\RentIt\obj\Debug\RentIt.csproj.CoreCompileInputs.cache
+E:\tubesKPL\KPL_Rentit\RentIt\RentIt\obj\Debug\RentIt.csproj.CopyComplete
+E:\tubesKPL\KPL_Rentit\RentIt\RentIt\obj\Debug\RentIt.exe
+E:\tubesKPL\KPL_Rentit\RentIt\RentIt\obj\Debug\RentIt.pdb
+E:\tubesKPL\KPL_Rentit\RentIt\RentIt\obj\Debug\RentIt.View.RentPage.RentPageView.resources

@@ -2,6 +2,7 @@
 using RentIt.View.Menu;
 using RentIt.View.Pembatalan_1;
 using RentIt.View.Pembayaran_2;
+using RentIt.View.RentPage;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,7 +21,7 @@ namespace RentIt
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(true);
-            Application.Run(new Pembatalan1View());
+            Application.Run(new MainPageView());
         }
     }
 }

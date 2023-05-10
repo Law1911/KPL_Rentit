@@ -1,4 +1,5 @@
-﻿using System;
+﻿using RentIt.View.RentPage;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -28,6 +29,30 @@ namespace RentIt.View.Facility_Page
         }
 
         private void textBox_GKU_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button_GKU_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            RentPageView rentPageView = new RentPageView();
+            rentPageView.ShowDialog();
+        }
+
+        private void buttonTUCH_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            FacilityPageView facilityPageView = new FacilityPageView();
+            facilityPageView.ShowDialog();
+        }
+
+        private void button_Auditorium_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void home_Click(object sender, EventArgs e)
         {
 
         }

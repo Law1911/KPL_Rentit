@@ -1,4 +1,5 @@
-﻿using System;
+﻿using RentIt.View.Facility_Page;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -20,6 +21,13 @@ namespace RentIt.CariGedungController
         private void label4_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            FacilityPageView facilityPageView = new FacilityPageView();
+            facilityPageView.ShowDialog();
         }
     }
 }
